@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">SoundLoadie</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="charts">Gráficos</string>
+  
+  
+  <string name="search">Buscar</string>
+  
+  
+  <string name="videos">Videos</string>
+  
+  
+  <string name="saved">Música</string>
+  
+  
+  <string name="playlist">Lista de reproducción</string>
+  
+  
+  <string name="learn">Tutorial</string>
+  
+  
+  <string name="watch">Mira en Youtube</string>
+  
+  
+  <string name="chart_sub">50 pistas</string>
+  
+  
+  <string name="chart_title_1">Top 50 de música</string>
+  
+  
+  <string name="chart_title_2">Top 50 de audio</string>
+  
+  
+  <string name="songs">Canciones</string>
+  
+  
+  <string name="playlist_count">Lista de reproducción de 500</string>
+  
+  
+  <string name="chart_title_sub">La música popular en todo el mundo</string>
+  
+  
+  <string name="chart_sub_sub">escucha los mejores podcasts y audiolibros</string>
+  
+  
+  <string name="type_text">La mejor música</string>
+  
+  
+  <string name="type_text2">Audio superior</string>
+  
+  
+  <string name="intro1">Abre Soundcloud y elige una canción</string>
+  
+  
+  <string name="intro2">Toca el botón compartir</string>
+  
+  
+  <string name="intro3">¡Elija SoundLoadie de la lista de aplicaciones y vea cómo sucede la magia!</string>
+  
+  
+  <string name="title1">Paso 1</string>
+  
+  
+  <string name="title2">Paso 2</string>
+  
+  
+  <string name="title3">Paso 3</string>
+  
+  
+  <string name="video_hint">Buscar videos musicales en Youtube</string>
+  
+  
+  <string name="audio_hint">Buscar música en SoundCloud</string>
+  
+  
+  <string name="audio_display">Buscar SoundCloud</string>
+  
+  
+  <string name="audio_message">encontrar canciones, listas de reproducción y álbumes</string>
+  
+  
+  <string name="lyrics_hint">Buscar letra</string>
+  
+  
+  <string name="search_result">Resultados de la búsqueda</string>
+  
+  
+  <string name="wait">Cargando ...</string>
+  
+  
+  <string name="downloadAudio">Descarga de audio</string>
+  
+  
+  <string name="fab_view_audio">Reproducir música</string>
+  
+  
+  <string name="popup_add">Agregar a la lista de reproducción</string>
+  
+  
+  <string name="popup_open">Ver en la web</string>
+  
+  
+  <string name="popup_share">Compartir</string>
+  
+  
+  <string name="popup_youtube">Mira en Youtube</string>
+  
+  
+  <string name="content_cover">Arte del álbum de música</string>
+  
+  
+  <string name="added">Agregado a favoritos</string>
+  
+  
+  <string name="complete">Descarga completa</string>
+  
+  
+  <string name="permissionPositive">De acuerdo</string>
+  
+  
+  <string name="permissionNegative">Cancelar</string>
+  
+  
+  <string name="permissionMessage">Esta aplicación no puede funcionar correctamente sin este permiso</string>
+  
+  
+  <string name="permissionTitle">Permiso necesario</string>
+  
+  
+  <!-- TODO: Remove or change this placeholder text -->
+  
+  
+  <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+  
+
+</resources>

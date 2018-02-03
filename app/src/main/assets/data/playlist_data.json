@@ -1,0 +1,65 @@
+{
+	"data": [{
+			"name": "Afrobeats",
+			"images": "https://i1.sndcdn.com/artworks-000069657315-z839no-t500x500.jpg",
+			"code": "afrobeats"
+		},
+
+		{
+			"name": "Workout",
+			"images": "https://i1.sndcdn.com/artworks-000147752298-jb37iv-t500x500.jpg",
+		    "code": "workout"
+		},
+		{
+			"name": "Rain Sounds",
+			"images": "https://i1.sndcdn.com/artworks-000057933743-lrd8bi-t500x500.jpg",
+			"code": "rain sounds relaxation"
+		},
+		{
+			"name": "Sleep",
+			"images": "https://i1.sndcdn.com/artworks-000248110722-id6dbq-t500x500.jpg",
+			"code": "business"
+		},
+		{
+			"name": "Meditation",
+			"images": "https://i1.sndcdn.com/artworks-000036981681-ewqqqv-t500x500.jpg",
+			"code": "meditation"
+		},
+
+		{
+			"name": "Theme Songs",
+			"images": "https://i1.sndcdn.com/avatars-000047644222-o7znr7-t500x500.jpg",
+			"code": "theme songs"
+		},
+		{
+			"name": "Vaporwave",
+			"images": "https://i1.sndcdn.com/artworks-000192563651-nh8th9-t500x500.jpg",
+			"code": "vaporwave"
+		},
+		{
+			"name": "Gospel",
+			"images": "https://i1.sndcdn.com/artworks-000091277763-bilpas-t500x500.jpg",
+			"code": "gospel"
+		},
+		{
+			"name": "Podcast",
+			"images": "https://i1.sndcdn.com/avatars-000297316241-se1l1u-t500x500.jpg",
+			"code": "podcast"
+		},
+		{
+			"name": "Wake up",
+			"images": "https://i1.sndcdn.com/artworks-000205591784-zefhf8-t500x500.jpg",
+			"code": "wakeup"
+		},
+		{
+			"name": "Inspirational",
+			"images": "https://i1.sndcdn.com/artworks-000079857090-40qnbb-t500x500.jpg",
+			"code": "Inspirational"
+		},
+		{
+			"name": "Ted Talks",
+			"images": "https://i1.sndcdn.com/artworks-000112542883-4ji6so-t500x500.jpg",
+			"code": "ted talks"
+		}
+	]
+}

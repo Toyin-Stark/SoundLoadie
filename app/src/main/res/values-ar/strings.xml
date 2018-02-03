@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">SoundLoadie</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="charts">الرسوم البيانية</string>
+  
+  
+  <string name="search">بحث</string>
+  
+  
+  <string name="videos">أشرطة فيديو</string>
+  
+  
+  <string name="saved">موسيقى</string>
+  
+  
+  <string name="playlist">قائمة التشغيل</string>
+  
+  
+  <string name="learn">الدورة التعليمية</string>
+  
+  
+  <string name="watch">مشاهدة على يوتيوب</string>
+  
+  
+  <string name="chart_sub">50 المسارات</string>
+  
+  
+  <string name="chart_title_1">أفضل 50 الموسيقى</string>
+  
+  
+  <string name="chart_title_2">أعلى 50 الصوت</string>
+  
+  
+  <string name="songs">الأغاني</string>
+  
+  
+  <string name="playlist_count">500 قائمة تشغيل</string>
+  
+  
+  <string name="chart_title_sub">الموسيقى الشعبية في جميع أنحاء العالم</string>
+  
+  
+  <string name="chart_sub_sub">والاستماع إلى أعلى دبليو والكاسيت</string>
+  
+  
+  <string name="type_text">الموسيقى كبار</string>
+  
+  
+  <string name="type_text2">أعلى الصوت</string>
+  
+  
+  <string name="intro1">فتح سوندكلود واختيار أغنية</string>
+  
+  
+  <string name="intro2">انقر على زر المشاركة</string>
+  
+  
+  <string name="intro3">اختيار سوندلودي من قائمة التطبيق ومشاهدة السحر يحدث !!</string>
+  
+  
+  <string name="title1">الخطوة 1</string>
+  
+  
+  <string name="title2">الخطوة 2</string>
+  
+  
+  <string name="title3">الخطوه 3</string>
+  
+  
+  <string name="video_hint">البحث الموسيقى والفيديو على يوتيوب</string>
+  
+  
+  <string name="audio_hint">البحث الموسيقى على ساوند كلاود</string>
+  
+  
+  <string name="audio_display">البحث سوندكلود</string>
+  
+  
+  <string name="audio_message">والعثور على الأغاني، وقائمة التشغيل والألبومات</string>
+  
+  
+  <string name="lyrics_hint">البحث الأغاني</string>
+  
+  
+  <string name="search_result">نتائج البحث</string>
+  
+  
+  <string name="wait">Loadingâ € |</string>
+  
+  
+  <string name="downloadAudio">تنزيل الصوت</string>
+  
+  
+  <string name="fab_view_audio">تشغيل الموسيقى</string>
+  
+  
+  <string name="popup_add">أضف إلى قائمة التشغيل</string>
+  
+  
+  <string name="popup_open">عرض على الويب</string>
+  
+  
+  <string name="popup_share">شارك</string>
+  
+  
+  <string name="popup_youtube">مشاهدة على يوتيوب</string>
+  
+  
+  <string name="content_cover">موسيقى الألبوم</string>
+  
+  
+  <string name="added">تمت الإضافة إلى المفضلة</string>
+  
+  
+  <string name="complete">تم التحميل</string>
+  
+  
+  <string name="permissionPositive">حسنا</string>
+  
+  
+  <string name="permissionNegative">إلغاء</string>
+  
+  
+  <string name="permissionMessage">هذا التطبيق لا يمكن أن تعمل بشكل صحيح دون هذا الإذن</string>
+  
+  
+  <string name="permissionTitle">إذن المطلوبة</string>
+  
+  
+  <!-- TODO: Remove or change this placeholder text -->
+  
+  
+  <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+  
+
+</resources>

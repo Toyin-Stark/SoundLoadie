@@ -1,0 +1,58 @@
+{
+	"data": [{
+			"name": "Audiobooks",
+			"images": "https://i1.sndcdn.com/avatars-000222509084-tsw6pg-t500x500.jpg",
+		    "code": "audiobooks"
+		},
+		{
+			"name": "Business",
+			"images": "https://i1.sndcdn.com/artworks-000101065768-r1jao0-t500x500.jpg",
+			"code": "business"
+		},
+		{
+			"name": "Comedy",
+			"images": "https://i1.sndcdn.com/avatars-000353644157-87riny-t500x500.jpg",
+			"code": "comedy"
+		},
+		{
+			"name": " Entertainmentl",
+			"images": "https://i1.sndcdn.com/artworks-000126777682-ts9q99-t500x500.jpg",
+			"code": " entertainment"
+		},
+		{
+			"name": "Learning",
+			"images": "https://i1.sndcdn.com/artworks-000268827371-f3nnqi-t500x500.jpg",
+			"code": "learning"
+		},
+		{
+			"name": "News & Politics",
+			"images": "https://i1.sndcdn.com/artworks-000268324565-ubq8uq-t500x500.jpg",
+			"code": "newspolitics"
+		},
+		{
+			"name": " Religion & Spirituality",
+			"images": "https://i1.sndcdn.com/artworks-000031402353-z4vqmq-t500x500.jpg",
+			"code": " religionspirituality"
+		},
+		{
+			"name": "Science",
+			"images": "https://i1.sndcdn.com/avatars-000310931898-tatioo-t500x500.jpg",
+			"code": "science"
+		},
+		{
+			"name": "Sports",
+			"images": "https://i1.sndcdn.com/artworks-000269439437-0i16et-t500x500.jpg",
+			"code": "sports"
+		},
+		{
+			"name": "Storytelling",
+			"images": "https://i1.sndcdn.com/artworks-000155498561-73tgi6-t500x500.jpg",
+			"code": "storytelling"
+		},
+		{
+			"name": "Technology",
+			"images": "https://i1.sndcdn.com/artworks-000259500299-oh4lwj-t500x500.jpg",
+			"code": "technology"
+		}
+	]
+}

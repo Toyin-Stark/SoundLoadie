@@ -1,0 +1,158 @@
+{
+	"data": [{
+			"name": "All Music",
+			"images": "https://i1.sndcdn.com/artworks-000272516456-2pmtyg-t500x500.jpg",
+		    "code": "all-music"
+		},
+		{
+			"name": "Alternative Rock",
+			"images": "https://i1.sndcdn.com/artworks-000266100404-p6p9qk-t500x500.jpg",
+			"code": "alternativerock"
+		},
+		{
+			"name": "Ambient",
+			"images": "https://i1.sndcdn.com/artworks-000101957991-2kal3l-t500x500.jpg",
+			"code": "ambient"
+		},
+		{
+			"name": "Classical",
+			"images": "https://i1.sndcdn.com/artworks-000153969188-zkohoj-t500x500.jpg",
+			"code": "classical"
+		},
+		{
+			"name": "Country",
+			"images": "https://i1.sndcdn.com/artworks-000083439910-61ces3-t500x500.jpg",
+			"code": "country"
+		},
+		{
+			"name": "Dance & EDM ",
+			"images": "https://i1.sndcdn.com/artworks-000228617384-ocdzo1-t500x500.jpg",
+			"code": "danceedm"
+		},
+		{
+			"name": "Dancehall",
+			"images": "https://i1.sndcdn.com/artworks-000208295569-29ga6b-t500x500.jpg",
+			"code": "dancehall"
+		},
+		{
+			"name": "Deep House",
+			"images": "https://i1.sndcdn.com/artworks-000077544859-y9w6ci-t500x500.jpg",
+			"code": "deephouse"
+		},
+		{
+			"name": "Disco",
+			"images": "https://i1.sndcdn.com/artworks-000084174037-bx4luk-t500x500.jpg",
+			"code": "disco"
+		},
+		{
+			"name": "Drum & Bass",
+			"images": "https://i1.sndcdn.com/artworks-000070392426-57ggao-t500x500.jpg",
+			"code": "drumbass"
+		},
+		{
+			"name": "Dubstep",
+			"images": "https://i1.sndcdn.com/artworks-000037874888-5ay7g1-t500x500.jpg",
+			"code": "dubstep"
+		},
+		{
+			"name": "Electronic",
+			"images": "https://i1.sndcdn.com/artworks-000265920926-3tcz0m-t500x500.jpg",
+			"code": "electronic"
+		},
+		{
+			"name": "Folk & Singer-Songwriter",
+			"images": "https://i1.sndcdn.com/artworks-000266661365-azunxg-t500x5000.jpg",
+			"code": "folksingersongwriter"
+		},
+		{
+			"name": "Hip-hop & Rap",
+			"images": "https://i1.sndcdn.com/avatars-000197631495-20f7ee-t500x500.jpg",
+			"code": "hiphoprap"
+		},
+		{
+			"name": "House",
+			"images": "https://i1.sndcdn.com/artworks-000085893060-iltfli-t500x500.jpg",
+			"code": "house"
+		},
+		{
+			"name": "Indie",
+			"images": "https://i1.sndcdn.com/artworks-000118137823-3qqzsn-t500x500.jpg",
+			"code": "indie"
+		},
+		{
+			"name": "Jazz & Blues",
+			"images": "https://i1.sndcdn.com/artworks-000048265696-9tfd86-t500x500.jpg",
+			"code": "jazzblues"
+		},
+		{
+			"name": " Latin",
+			"images": "https://i1.sndcdn.com/artworks-000240683380-sfs4iw-t500x500.jpg",
+			"code": "latin"
+		},
+		{
+			"name": "Metal",
+			"images": "https://i1.sndcdn.com/avatars-000005494697-kcckj2-t500x500.jpg",
+			"code": "metal"
+		},
+		{
+			"name": "Piano",
+			"images": "https://i1.sndcdn.com/avatars-000171534452-maskpp-t500x500.jpg",
+			"code": "piano"
+		},
+		{
+			"name": "Pop",
+			"images": "https://i1.sndcdn.com/artworks-000124486035-gcwqff-t500x500.jpg",
+			"code": "pop"
+		},
+		{
+			"name": "R&B & Soul",
+			"images": "https://i1.sndcdn.com/artworks-IjuUg0Ff7VKt-0-t500x500.jpg",
+			"code": "rbsoul"
+		},
+		{
+			"name": "Reggae",
+			"images": "https://i1.sndcdn.com/artworks-000108593302-0ek7n6-t500x500.jpg",
+			"code": "reggae"
+		},
+		{
+			"name": "Reggaeton",
+			"images": "https://i1.sndcdn.com/artworks-000135206912-vatkng-t500x500.jpg",
+			"code": "reggaeton"
+		},
+		{
+			"name": "Rock",
+			"images": "https://i1.sndcdn.com/avatars-000059267501-sbo50o-t500x500.jpg",
+			"code": "rock"
+		},
+		{
+			"name": "Soundtrack",
+			"images": "https://i1.sndcdn.com/artworks-000221483425-8hixqa-t500x500.jpg",
+			"code": "soundtrack"
+		},
+		{
+			"name": "Techno",
+			"images": "https://i1.sndcdn.com/artworks-000279759479-dr6s5t-t500x500.jpg",
+			"code": "techno"
+		},
+		{
+			"name": "Trance",
+			"images": "https://i1.sndcdn.com/artworks-000197441799-wtjxrj-t500x500.jpg",
+			"code": "trance"
+		},
+		{
+			"name": "Trap",
+			"images": "https://i1.sndcdn.com/artworks-000237801509-nv9f5z-t500x500.jpg",
+			"code": "trap"
+		},
+		{
+			"name": "Triphop",
+			"images": "https://i1.sndcdn.com/artworks-000000447398-5yetyb-t500x500.jpg",
+			"code": "triphop"
+		},
+		{
+			"name": "World",
+			"images": "https://i1.sndcdn.com/artworks-000122028548-g01ynh-t500x500.jpg",
+			"code": "world"
+		}
+	]
+}

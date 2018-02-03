@@ -1,0 +1,118 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3743054415415030963",
+      "lastPropertyId": "7:5930856313283613669",
+      "name": "Playlist",
+      "properties": [
+        {
+          "id": "1:3228756302019404084",
+          "name": "id"
+        },
+        {
+          "id": "2:6170053101256029601",
+          "name": "player"
+        },
+        {
+          "id": "3:5385400989062107982",
+          "name": "titles"
+        },
+        {
+          "id": "4:4591174710253971969",
+          "name": "genre"
+        },
+        {
+          "id": "5:587162955970137573",
+          "name": "author"
+        },
+        {
+          "id": "6:1383510585880180799",
+          "name": "art"
+        },
+        {
+          "id": "7:5930856313283613669",
+          "name": "link"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:4765625607647230237",
+      "lastPropertyId": "5:295179959696268868",
+      "name": "VPlaylist",
+      "properties": [
+        {
+          "id": "1:2879319737989527036",
+          "name": "id"
+        },
+        {
+          "id": "2:3088418087064100006",
+          "name": "titles"
+        },
+        {
+          "id": "3:1919225178650812388",
+          "name": "link"
+        },
+        {
+          "id": "4:4878341141493294374",
+          "name": "idx"
+        },
+        {
+          "id": "5:295179959696268868",
+          "name": "published"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:2774173678097077770",
+      "lastPropertyId": "7:6337315001220342213",
+      "name": "PlaylistSquare",
+      "properties": [
+        {
+          "id": "1:3435311653790790871",
+          "name": "id"
+        },
+        {
+          "id": "2:861214280523639361",
+          "name": "titles"
+        },
+        {
+          "id": "3:209298074679295690",
+          "name": "author"
+        },
+        {
+          "id": "4:102024344560011059",
+          "name": "link"
+        },
+        {
+          "id": "5:4808635031295062100",
+          "name": "art"
+        },
+        {
+          "id": "6:7930813047134387320",
+          "name": "idx"
+        },
+        {
+          "id": "7:6337315001220342213",
+          "name": "track"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "3:2774173678097077770",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

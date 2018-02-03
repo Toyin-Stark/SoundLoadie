@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">SoundLoadie</string>
+  <string name="charts">Diagramme</string>
+  <string name="search">Suche</string>
+  <string name="videos">Videos</string>
+  
+  
+  <string name="saved">Musik</string>
+  
+  
+  <string name="playlist">Wiedergabeliste</string>
+  
+  
+  <string name="learn">Tutorial</string>
+  
+  
+  <string name="watch">Schau auf Youtube</string>
+  
+  
+  <string name="chart_sub">50 Titel</string>
+  
+  
+  <string name="chart_title_1">Top 50 Musik</string>
+  
+  
+  <string name="chart_title_2">Top 50 Audio</string>
+  
+  
+  <string name="songs">Lieder</string>
+  
+  
+  <string name="playlist_count">500 Wiedergabelisten</string>
+  
+  
+  <string name="chart_title_sub">Popmusik auf der ganzen Welt</string>
+  
+  
+  <string name="chart_sub_sub">Höre dir die Top Podcasts und Hörbücher an</string>
+  
+  
+  <string name="type_text">Top-Musik</string>
+  
+  
+  <string name="type_text2">Top Audio</string>
+  
+  
+  <string name="intro1">Öffne Soundcloud und wähle einen Song</string>
+  
+  
+  <string name="intro2">Tippen Sie auf die Schaltfläche zum Teilen</string>
+  
+  
+  <string name="intro3">Wähle SoundLoadie aus der App-Liste und sieh zu, wie die Magie passiert !!</string>
+  
+  
+  <string name="title1">Schritt 1</string>
+  
+  
+  <string name="title2">Schritt 2</string>
+  
+  
+  <string name="title3">Schritt 3</string>
+  
+  
+  <string name="video_hint">Suche Musikvideo auf Youtube</string>
+  
+  
+  <string name="audio_hint">Suche Musik auf SoundCloud</string>
+  
+  
+  <string name="audio_display">Suche SoundCloud</string>
+  
+  
+  <string name="audio_message">Finde Songs, Playlists und Alben</string>
+  
+  
+  <string name="lyrics_hint">Suche nach Texten</string>
+  
+  
+  <string name="search_result">Suchergebnisse</string>
+  
+  
+  <string name="wait">Laden ...</string>
+  
+  
+  <string name="downloadAudio">Herunterladen von Audio</string>
+  
+  
+  <string name="fab_view_audio">Spiel Musik</string>
+  
+  
+  <string name="popup_add">Zur Titelliste hinzufügen</string>
+  
+  
+  <string name="popup_open">Im Internet ansehen</string>
+  
+  
+  <string name="popup_share">Aktie</string>
+  
+  
+  <string name="popup_youtube">Schau auf Youtube</string>
+  
+  
+  <string name="content_cover">Musik Album Kunst</string>
+  
+  
+  <string name="added">Zu Favoriten hinzugefügt</string>
+  
+  
+  <string name="complete">Download abgeschlossen</string>
+  
+  
+  <string name="permissionPositive">OK</string>
+  
+  
+  <string name="permissionNegative">Stornieren</string>
+  
+  
+  <string name="permissionMessage">Diese App kann ohne diese Berechtigung nicht ordnungsgemäß funktionieren</string>
+  
+  
+  <string name="permissionTitle">Erlaubnis benötigt</string>
+  
+  
+  <!-- TODO: Remove or change this placeholder text -->
+  
+  
+  <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+  
+
+</resources>

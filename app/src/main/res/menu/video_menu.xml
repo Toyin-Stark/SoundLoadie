@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/watch"
+        android:icon="@drawable/ic_music_video"
+        android:title="@string/watch"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/open"
+        android:icon="@drawable/ic_open_in"
+        android:title="@string/popup_open"
+        android:orderInCategory="200"
+
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_send"
+        android:title="@string/popup_share"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+
+</menu>

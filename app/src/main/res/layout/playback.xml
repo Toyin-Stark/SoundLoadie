@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    >
+
+
+        <ImageView
+            android:id="@+id/playbuts"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_play_2"
+            android:layout_weight="1"
+            android:onClick="Tube"
+            />
+
+        <ImageView
+            android:id="@+id/raters"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_rate"
+            android:layout_weight="1"
+            android:onClick="Rated"
+
+            />
+
+
+        <ImageView
+            android:id="@+id/closers"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_close"
+            android:layout_weight="1"
+            android:onClick="Close"
+            />
+
+
+
+
+</LinearLayout>

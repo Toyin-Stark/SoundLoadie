@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:background="#00000000"
+        >
+
+        <ImageView
+            android:id="@+id/cover"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            app:srcCompat="@drawable/ic_vinyl"
+            />
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="8dp"
+            >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            >
+
+
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="@android:color/white"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/ic_file"
+                android:drawableTint="@android:color/white"
+                android:drawablePadding="4dp"
+
+                />
+
+
+            <com.github.curioustechizen.ago.RelativeTimeTextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="normal"
+                android:textColor="@android:color/white"
+                app:relative_time_prefix=""
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/ic_clock"
+                android:drawableTint="@android:color/white"
+                android:drawablePadding="4dp"
+
+
+                />
+
+
+
+            <TextView
+                android:id="@+id/links"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="#777"
+                android:visibility="gone"
+                android:layout_weight="1"
+                />
+
+
+            <TextView
+                android:id="@+id/typePhoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="#777"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/ic_clock"
+                android:drawableTint="#777"
+                android:drawablePadding="4dp"
+                android:visibility="gone"
+                />
+
+
+
+            <TextView
+                android:id="@+id/typeVideo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="#777"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/ic_clock"
+                android:drawableTint="#777"
+                android:drawablePadding="4dp"
+                android:visibility="gone"
+                />
+
+
+        </LinearLayout>
+
+
+
+            </LinearLayout>
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#22ffffff"
+        />
+
+</LinearLayout>

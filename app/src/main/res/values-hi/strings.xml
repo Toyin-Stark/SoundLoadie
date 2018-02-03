@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">SoundLoadie</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="charts">चार्ट</string>
+  
+  
+  <string name="search">खोज</string>
+  
+  
+  <string name="videos">वीडियो</string>
+  
+  
+  <string name="saved">संगीत</string>
+  
+  
+  <string name="playlist">प्लेलिस्ट</string>
+  
+  
+  <string name="learn">ट्यूटोरियल</string>
+  
+  
+  <string name="watch">यूट्यूब पर देखें</string>
+  
+  
+  <string name="chart_sub">50 पटरियों</string>
+  
+  
+  <string name="chart_title_1">शीर्ष 50 संगीत</string>
+  
+  
+  <string name="chart_title_2">शीर्ष 50 ऑडियो</string>
+  
+  
+  <string name="songs">गीत</string>
+  
+  
+  <string name="playlist_count">500 प्लेलिस्ट</string>
+  
+  
+  <string name="chart_title_sub">दुनिया भर में लोकप्रिय संगीत</string>
+  
+  
+  <string name="chart_sub_sub">शीर्ष पॉडकास्ट और ऑडीओबूक को सुनें</string>
+  
+  
+  <string name="type_text">शीर्ष संगीत</string>
+  
+  
+  <string name="type_text2">शीर्ष ऑडियो</string>
+  
+  
+  <string name="intro1">Soundcloud खोलें और एक गीत चुनें</string>
+  
+  
+  <string name="intro2">शेयर बटन टैप करें</string>
+  
+  
+  <string name="intro3">ऐप सूची से SoundLoadie चुनें और जादुई घड़ी देखें !!</string>
+  
+  
+  <string name="title1">चरण 1</string>
+  
+  
+  <string name="title2">चरण 2</string>
+  
+  
+  <string name="title3">चरण 3</string>
+  
+  
+  <string name="video_hint">यूट्यूब पर संगीत वीडियो खोजें</string>
+  
+  
+  <string name="audio_hint">SoundCloud पर संगीत खोजें</string>
+  
+  
+  <string name="audio_display">SoundCloud खोजें</string>
+  
+  
+  <string name="audio_message">गाने, प्लेलिस्ट और एल्बम खोजें</string>
+  
+  
+  <string name="lyrics_hint">गीत खोजें</string>
+  
+  
+  <string name="search_result">खोज परिणाम</string>
+  
+  
+  <string name="wait">Loadingâ € |</string>
+  
+  
+  <string name="downloadAudio">ऑडियो डाउनलोड करना</string>
+  
+  
+  <string name="fab_view_audio">संगीत बजाना</string>
+  
+  
+  <string name="popup_add">संगीत एल्बम कला</string>
+  
+  
+  <string name="popup_open">वेब पर देखें</string>
+  
+  
+  <string name="popup_share">शेयर</string>
+  
+  
+  <string name="popup_youtube">यूट्यूब पर देखें</string>
+  
+  
+  <string name="content_cover">संगीत एल्बम कला</string>
+  
+  
+  <string name="added">पसंदीदा में जोड़ा गया</string>
+  
+  
+  <string name="complete">डाउनलोड सम्पन्न हुआ</string>
+  
+  
+  <string name="permissionPositive">ठीक</string>
+  
+  
+  <string name="permissionNegative">रद्द करना</string>
+  
+  
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता</string>
+  
+  
+  <string name="permissionTitle">अनुमति आवश्यक है</string>
+  
+  
+  <!-- TODO: Remove or change this placeholder text -->
+  
+  
+  <string name="hello_blank_fragment">Gráficos</string>
+  
+
+</resources>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blur"
+    tools:context="com.ware.soundloadie.AudioBox.Player">
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/belt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorPrimaryDark"
+        android:padding="20dp"
+        >
+
+        <TextView
+            android:id="@+id/titled"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#eee"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:textSize="18sp"
+            android:text="Drake - Enemies"
+            android:layout_gravity="center"
+            android:gravity="center"
+
+            />
+
+
+
+        <TextView
+            android:id="@+id/artiste"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorText"
+            android:singleLine="true"
+            android:textSize="14sp"
+            android:text="Drake - Enemies"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="4dp"
+
+            />
+
+
+
+
+    </LinearLayout>
+
+
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/cover"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:civ_border_color="#22ffffff"
+        app:civ_border_width="2dp"
+        android:layout_centerInParent="true"
+
+
+        />
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:layout_above="@+id/base"
+
+
+
+        >
+
+
+        <ImageView
+            android:id="@+id/prevIcon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_skip_previous"
+            android:tint="#fff"
+            android:onClick="previous"
+            />
+
+
+
+        <ImageView
+            android:id="@+id/playIcon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_play"
+            android:onClick="played"
+            android:tint="#fff"
+            />
+
+
+        <ImageView
+            android:id="@+id/nextIcon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_skip_next"
+            android:onClick="next"
+            android:tint="#fff"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/base"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+
+        >
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp"
+            >
+
+            <SeekBar
+                android:id="@+id/seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="100"
+                android:progress="0"
+                android:padding="0dp"
+                android:layout_margin="0dp"
+                android:layout_weight="1"
+
+                />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+
+            <TextView
+                android:id="@+id/tick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:textSize="14sp"
+                android:text="00:00"
+                android:layout_gravity="left"
+                android:gravity="left"
+                android:layout_weight="1"
+                />
+
+
+
+            <TextView
+                android:id="@+id/timer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:textSize="14sp"
+                android:text="00:00"
+                android:layout_gravity="right"
+                android:gravity="right"
+                android:layout_weight="1"
+                />
+
+
+
+        </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</RelativeLayout>
